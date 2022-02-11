@@ -37,6 +37,6 @@ Example
 To check the balance of your mining rewards you can visit this link  https://keymaker.cc/pool/?address. You can also see overall stats and further updates as well as our other collision pool. 
 
 
-![Bitminer Pool](http://url/to/img.png)
+![Bitminer Pool](![image](https://user-images.githubusercontent.com/13451926/153525257-65294913-8216-4ae1-9aa8-7b1c68c24a6d.png))
 
 
