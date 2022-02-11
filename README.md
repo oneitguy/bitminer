@@ -34,7 +34,7 @@ Example
     
     
 # Payments
-To check the balance of your mining rewards you can visit this link  https://keymaker.cc/pool/?address. You can also see overall stats and further updates as well as our other collision pool. 
+To check the balance of your mining rewards you can visit this link  https://keymaker.cc/pool/?address. You can also see overall stats and further updates. 
 
  
 
