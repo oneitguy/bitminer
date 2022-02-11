@@ -31,3 +31,9 @@ Example
     "worker": "123E3b27807B13f1c6... 82C7094C.worker1",
     "uid": "123E02E9B2A148...D",
     "pool": "https://keymaker.cc/pool"
+    
+    
+# Payments
+To check the balance of your mining rewards you can visit this link  https://keymaker.cc/pool/?address. You can also see overall stats and further updates as well as our other collision pool. 
+
+
