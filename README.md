@@ -1,5 +1,5 @@
 ----------------------------------------------------------
-# !!Major update to be released soon!!
+# !!Major update has been released!!
 ---------------------------------------------------------
 # bitminer
 Automated mining of pow and pos coins to gain Bitcoin rewards. As new blockchains emerge we see new ways to mine crypto. Our goal is to optimize the mining process using the highest mining yeild for distrbution to our miners. 
