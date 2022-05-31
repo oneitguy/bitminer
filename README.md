@@ -2,7 +2,7 @@
 # !!Major update has been released!!
 ---------------------------------------------------------
 # bitminer
-Automated mining of pow and pos coins to gain Bitcoin rewards. As new blockchains emerge we see new ways to mine crypto. Our goal is to optimize the mining process using the highest mining yeild for distrbution to our miners. 
+Automated mining of proof of work coins to gain Bitcoin rewards. As new blockchains emerge we see new ways to mine crypto. Our goal is to optimize the mining process using the highest mining yield for distribution to our miners. We have just recently added collision mining for solving puzzle transactions. We are currently working on Puzzle 120 and you can choose to enable collision mining. 
 
 # Install
 
